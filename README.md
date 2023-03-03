@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalhando em ["coffee_shop_webpage"](https://www.figma.com/file/IbfoOQNfs0qNgsl1Voys2i/coffeeshop?t=4yUpC0AkXqejG8mE-1)
 
-- 🌱 Atualmente aprendendo **Javascript, PHP, SQL, Swift, Kotlin & Photoshop**
+- 🌱 Estou aprendendo **Javascript, PHP, SQL, Swift, Kotlin & Photoshop**
 
 - 📫 Como me achar: **viviane_storck@icloud.com**
 
