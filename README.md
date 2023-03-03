@@ -9,7 +9,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://br.linkedin.com/in/viviane-storck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://br.linkedin.com/in/viviane-storck-466285240?original_referer=https%3a%2f%2fwww.google.com%2f" height="30" width="40" /></a>
+<a href="https://br.linkedin.com/in/viviane-storck-466285240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://br.linkedin.com/in/viviane-storck-466285240?original_referer=https%3a%2f%2fwww.google.com%2f" height="30" width="40" /></a>
 <a href="https://instagram.com/vaampppppp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaampppppp" height="30" width="40" /></a>
 <a href="https://dribbble.com/vihstorck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="vihstorck" height="30" width="40" /></a>
 </p>
