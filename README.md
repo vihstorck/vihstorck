@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Vivi Storck</h1>
 <h3 align="center">Desenvolvedora Web e UX/UI designer em crescimento</h3>
 
-- 🔭 Atualmente trabalhando em ["coffee_shop_webpage"](https://www.figma.com/file/IbfoOQNfs0qNgsl1Voys2i/coffeeshop?t=4yUpC0AkXqejG8mE-1)
+- 🔭 Atualmente trabalhando em ["coffee_shop_webpage"](https://www.figma.com/file/IbfoOQNfs0qNgsl1Voys2i/coffeeshop?t=4yUpC0AkXqejG8mE-1) & ["medusa_ai_assistant"](https://www.figma.com/file/CWPYeZRQPB7tZepFTMUdbG/AI_Assistant?t=Mq7SLwYQEjQbkT4V-1)
 
 - 🌱 Estou aprendendo **Javascript, PHP, SQL, Swift, Kotlin & Photoshop**
 
